@@ -46,3 +46,34 @@ h2.sectionHead {
 p {
   margin-bottom: 50px;
 }
+
+#userPersona {
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+#userFlow {
+  width: 100%;
+  padding-bottom: 30px;
+}
+
+footer {
+
+  
+  padding-top: 40px;
+  background-color: black;
+  width: 100%;
+  color: white;
+}
+
+.justify-content-center {
+  
+}
+
+footer p {
+  text-align: center;
+}
+
+.nav {
+
+}
