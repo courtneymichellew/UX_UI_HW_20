@@ -1,6 +1,7 @@
 p {
   font-family: 'Open Sans', sans-serif;
 }
+
 h1 {
   font-family: 'Prata', serif;
   font-size: 30pt;
@@ -26,17 +27,10 @@ a.navbar-brand {
 
 .bg-dark {
   background-color: black !important;
-
 }
-
-
 
 a.nav-link {
   color: white;
-}
-
-.jumbotron {
-  
 }
 
 .jumbotronBack {
@@ -46,7 +40,6 @@ a.nav-link {
   background-repeat: no-repeat;
   color: white;  
 }
-
 
 .container {
   justify-content: center;
@@ -73,6 +66,8 @@ p {
   margin-bottom: 50px;
 }
 
+.col {}
+
 #userPersona {
   width: 100%;
   padding-bottom: 30px;
@@ -81,6 +76,10 @@ p {
 #userFlow {
   width: 100%;
   padding-bottom: 30px;
+}
+
+#competitorA {
+  width: 100%;
 }
 
 footer {
