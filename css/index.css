@@ -1,3 +1,29 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  font-family: 'Prata', serif;
+  font-size: 30pt;
+}
+
+h2 {
+  font-family: 'Prata', serif;
+  font-size: 20pt;
+}
+
+h3 {
+  font-family: 'Prata', serif;
+  font-size: 15pt;
+}
+
+a.navbar-brand {
+  font-family: 'Prata', serif;
+}
+
+.nav {
+  font-family: 'Prata', serif;
+}
+
 .bg-dark {
   background-color: black !important;
 
@@ -58,22 +84,13 @@ p {
 }
 
 footer {
-
-  
   padding-top: 40px;
   background-color: black;
   width: 100%;
   color: white;
 }
 
-.justify-content-center {
-  
-}
-
 footer p {
   text-align: center;
-}
-
-.nav {
-
+  font-family: 'Open Sans', sans-serif;
 }
