@@ -54,19 +54,24 @@ a.nav-link {
 }
 
 h2.sectionHead {
+  outline: solid red 1px;
   text-align: center;
   margin: 30px;
 }
 
 .col {
   margin-bottom: 20px;
+  outline: solid red 1px;
+  width: 100%;
 }
 
 p {
   margin-bottom: 50px;
 }
 
-.col {}
+.col {
+  
+}
 
 #userPersona {
   width: 100%;
@@ -79,6 +84,22 @@ p {
 }
 
 #competitorA {
+  width: 100%;
+}
+
+#wireframes {
+  width: 100%;
+}
+
+#styleGuide {
+  width: 100%;
+}
+
+#affinityMap {
+  width: 100%
+}
+
+#testing {
   width: 100%;
 }
 
