@@ -1,0 +1,48 @@
+.bg-dark {
+  background-color: black !important;
+
+}
+
+
+
+a.nav-link {
+  color: white;
+}
+
+.jumbotron {
+  
+}
+
+.jumbotronBack {
+  height: auto;
+  background-image: url(../Images/background_peony_jumbotron.jpg) !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;  
+}
+
+
+.container {
+  justify-content: center;
+}
+
+#caseContent {
+  /*outline: solid red 1px;*/
+  width: 85%;
+  margin: auto;
+  padding: 20px;
+  border-style: double;
+}
+
+h2.sectionHead {
+  text-align: center;
+  margin: 30px;
+}
+
+.col {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 50px;
+}
