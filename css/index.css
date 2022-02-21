@@ -46,6 +46,7 @@ a.nav-link {
 }
 
 #caseContent {
+  outline: solid black 1px;
   width: 85%;
   margin: auto;
   padding: 20px;
@@ -53,7 +54,7 @@ a.nav-link {
 }
 
 h2.sectionHead {
-  outline: solid red 1px;
+  
   text-align: center;
   margin: 30px;
 }
