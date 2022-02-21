@@ -53,7 +53,7 @@ a.nav-link {
 }
 
 h2.sectionHead {
-  
+  outline: solid red 1px;
   text-align: center;
   margin: 30px;
 }
