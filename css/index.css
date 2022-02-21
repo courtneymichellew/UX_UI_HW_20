@@ -69,10 +69,6 @@ p {
   margin-bottom: 50px;
 }
 
-.col {
-  
-}
-
 #userPersona {
   width: 100%;
   padding-bottom: 30px;
@@ -113,4 +109,5 @@ footer {
 footer p {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
+  padding: 20px;
 }
